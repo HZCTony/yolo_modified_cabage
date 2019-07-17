@@ -12,6 +12,8 @@ every line should be:
 
 The "xmin,ymin,xmax,ymax" means a labelling box of an object with its own left-up and right-down points.
 
+The .txt file is annotation_path in YOLOv3_train.py
+
 # 2. train your own data 
 
 check path about your source data. like below:
